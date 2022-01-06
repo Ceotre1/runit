@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "188389218815",
+    "project_id": "runit-w3st",
+    "storage_bucket": "runit-w3st.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188389218815:android:ee55526e16ee7c850b2fca",
+        "android_client_info": {
+          "package_name": "com.Runit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188389218815-235udj0opr8ok7bdrj3oc53e75gdrmeg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Runit",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "188389218815-0rsokkji6bk9ga87t49ffiglfob4esl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGGzpKFUlWzc6Yr0w2XPDZyrkZ2N89-z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188389218815-0rsokkji6bk9ga87t49ffiglfob4esl9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "188389218815-q2qtuvm6e3oejhvb5o9r7kbf5h4dcupd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Runit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
